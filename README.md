@@ -1,5 +1,6 @@
 # JWT Crack 工具介绍
 
+
 `JWT Crack` 是一款用于破解和验证 JSON Web Tokens (JWT) 的工具。它支持以下主要功能：
 
 ## 主要功能
